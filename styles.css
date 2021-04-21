@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background-color: green;
+    margin: 5px;
+    border: 5px solid black;
+    padding: 25px;
+    font-size: 25px;
+    font-style: normal;
+}
+
+.programming {
+    margin: 25px;
+    border: 20px solid orange;
+    padding: 40px;
+    background-color: greenyellow;
+}
